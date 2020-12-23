@@ -23,6 +23,8 @@ body {
   color: $darkGray;
 }
 
+canvas{display: block;width: 100%;height: 100%;}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
